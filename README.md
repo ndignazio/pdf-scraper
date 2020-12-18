@@ -22,6 +22,6 @@ pip3 install -r requirements.txt
 
 In a Linux terminal, use the following syntax:
 ```bash
-python3 parser.py {url} {filepath}
+python3 scraper.py {url} {filepath}
 ```
 A URL is required; a filepath is optional.
